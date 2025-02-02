@@ -36,10 +36,6 @@ This project provides a complete setup for monitoring and logging using Grafana,
 
 ### 1. Clone the Repository
 
-```sh
-git clone https://github.com/yourusername/grafana-prometheus-loki.git
-cd grafana-prometheus-loki
-```
 
 ### 2. Build and Run the Docker Containers
 
